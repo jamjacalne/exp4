@@ -14,4 +14,4 @@ Instrumentation and hometown Luzon
 constant as Mindanao and gender Female
 2. Create a visualization that shows how the different features contributes to average grade. Does
 chosen track in college, gender, or hometown contributes to a higher average score?
-- In this problem, I used seaborn to create Bar Plots of each parameter (a. Track, b. Gender, c. Hometown)
+- In this problem, I used seaborn to graph Bar Plots of the Average by each parameter (a. Track, b. Gender, c. Hometown)
